@@ -1,0 +1,16 @@
+# pip install -r requirements.txt
+langchain==0.0.184 # To interact with our language models
+PyPDF2==3.0.1 # Pdf parsing(Reading)
+python-dotenv==1.0.0 # To load env 
+streamlit==1.18.1 # GUI
+openai==0.27.6 # API
+faiss-cpu==1.7.4 #A library for efficient similarity search 
+                    # and clustering of dense vectors
+altair==4
+tiktoken==0.4.0
+# uncomment to use huggingface llms
+# huggingface-hub==0.14.1
+
+# uncomment to use instructor embeddings
+# InstructorEmbedding==1.0.1
+# sentence-transformers==2.2.2
