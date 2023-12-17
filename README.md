@@ -1,5 +1,6 @@
 # MultiPDF Chat App
-<img width="1440" alt="MultiPDF Chat" src="https://github.com/NIRMAL1508/MultiPDF-Chat-App/assets/86112673/be50a822-02af-495e-9613-e8f395204097">
+<img width="1440" alt="MultiPDF Chat" src="https://github.com/NIRMAL1508/MultiPDF-Chat-App/assets/86112673/368686a2-cffa-4b27-b13a-14036dd86f41">
+
 
 ## Introduction
 ------------
